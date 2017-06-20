@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "errorInfo.py", line 3, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
